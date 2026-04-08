@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨‍💻 Muhammadraxim
 
-<!--
-**muhammadraximdev/muhammadraximdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a beginner backend developer focused on Python and Django.  
+Currently working on cybersecurity and file analysis projects.
 
-Here are some ideas to get you started:
+## 🛠 Technologies
+- Python
+- Django
+- HTML, CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Current Project
+File Security Scanner Web App  
+(Detects suspicious and dangerous files)
+
+## 📬 Contact
+Telegram: @mr_rayimqulov
