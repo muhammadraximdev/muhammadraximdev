@@ -1,42 +1,43 @@
 <h1 align="center">Muhammadraxim</h1>
 <p align="center">
-  Python Developer • Django Backend • Cybersecurity Learner
+  🚀 Python Developer • Django Backend • 🔐 Cybersecurity
 </p>
 
 <p align="center">
-  <a href="https://github.com/muhammadraximdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=3b82f6&center=true&vCenter=true&size=22&lines=Backend+Developer;Django+Enthusiast;Cybersecurity+Learner" />
 </p>
 
 ---
 
-## About me
+## 👨‍💻 About Me
+- 🧠 Python va Django bilan ishlayman  
+- 🔐 Web xavfsizlikni o‘rganayapman  
+- 🚀 Hozir: **File Security Scanner** loyihasi  
 
-Men Python va Django bilan backend dasturlashni o‘rganayapman.  
-Hozirda web xavfsizlik va fayl tahlili yo‘nalishida loyihalar ustida ishlayapman.
+---
 
-## Technologies
-
-- Python
-- Django
-- HTML
-- CSS
-- Git
-- GitHub
-
-## Current focus
-
-- File Security Scanner Web App
-- Django backend development
-- Cybersecurity fundamentals
-
-## GitHub Stats
-
+## ⚙️ Tech Stack
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadraximdev&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadraximdev&layout=compact&theme=default&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3b82f6"/>
+  <img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=3b82f6"/>
+  <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=3b82f6"/>
+  <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=3b82f6"/>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=3b82f6"/>
+</p>
+
+---
+
+## 📊 Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadraximdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadraximdev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contact
+<p align="center">
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-3b82f6?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
