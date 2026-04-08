@@ -2,11 +2,10 @@
 <p align="center">
   🚀 Python Developer • Django Backend • 🔐 Cybersecurity
 </p>
-prisma
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=3b82f6&center=true&vCenter=true&size=22&lines=Backend+Developer;Django+Enthusiast;Cybersecurity+Learner" />
 </p>
-
+[![My Skills](https://skillicons.dev/icons?i=alpinejs,yarn,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ---
 
 ## 👨‍💻 About Me
