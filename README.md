@@ -60,8 +60,8 @@ A Django-based web application for analyzing uploaded files and detecting suspic
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadraximdev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadraximdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadraximdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammadraxim's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadraximdev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
