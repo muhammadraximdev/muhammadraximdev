@@ -1,85 +1,97 @@
-<h1 align="center">👨‍💻 Muhammadraxim</h1>
+<h1 align="center">Hi there, I'm Muhammadraxim 👋</h1>
 
 <p align="center">
-  🚀 Python Backend Developer | Django Specialist | 🔐 Cybersecurity Enthusiast
+  <b>Python Backend Developer</b> • <b>Django Specialist</b> • <b>Cybersecurity Enthusiast</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3b82f6&center=true&vCenter=true&size=24&lines=Python+%7C+Django+Backend+Developer;Building+Secure+Web+Applications;Cybersecurity+%26+Ethical+Hacking;Always+Learning+New+Things" />
+  I build secure, scalable, and modern backend applications with Python & Django.
 </p>
 
----
-
-## 🚀 About Me
-
-- 🧠 **Python & Django Backend Developer (asosiy yo‘nalish)**
-- 🔐 Cybersecurity (Web Security, Kali Linux)
-- 🛠️ Real loyiha: **File Security Scanner**
-- ⚡ Maqsad: Secure va scalable backendlar yaratish
-
----
-
-## ⚡ Core Stack (Main Focus)
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,linux,git&theme=dark"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=3b82f6&center=true&vCenter=true&size=24&width=750&lines=Python+Backend+Developer;Django+Specialist;Building+Secure+Web+Applications;Cybersecurity+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🔐 Cybersecurity Skills (Secondary Focus)
+## 👨‍💻 About Me
+
+- 🔹 Passionate about **Python** and **Django Backend Development**
+- 🔹 Interested in **Cybersecurity** and **Web Security**
+- 🔹 Currently building a real project: **File Security Scanner**
+- 🔹 Love creating **secure**, **clean**, and **scalable** web applications
+- 🔹 Always learning and improving my backend engineering skills
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,linux,git,github,vscode,bash&theme=dark" />
 </p>
+
+---
+
+## 🔐 Cybersecurity Focus
 
 - OWASP Top 10
 - XSS / SQL Injection / CSRF
-- Web vulnerability analysis
-- Ethical hacking basics
+- Web Vulnerability Analysis
+- Secure Coding Principles
+- Ethical Hacking Basics
+- Linux & Security Tools
 
 ---
 
 ## 🔥 Featured Project
 
 ### 🔐 File Security Scanner
-> Python + Django asosida yaratilgan web ilova
+A Django-based web application for analyzing uploaded files and detecting suspicious behavior.
 
-- 📂 Fayllarni tekshiradi (.exe, .apk, .zip va boshqalar)
-- ⚠️ Xavf darajasini aniqlaydi (Danger / Suspicious / Safe)
-- 🧠 Heuristic tahlil
-- 🚀 Minimal va tez backend
+#### Features:
+- 📂 Scans multiple file types: `.exe`, `.apk`, `.zip`, `.js`, `.bat`, `.ps1`, and more
+- ⚠️ Detects risk levels: **Danger / Suspicious / Safe**
+- 🧠 Uses heuristic-based analysis
+- 🛡️ Focused on user-friendly security insights
+- 🚀 Fast, clean, and minimal backend structure
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammmadraxim&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammmadraxim&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadraximdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadraximdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Currently Improving
+## 🧠 Currently Learning
 
-- ⚙️ Advanced Django (API, Security, Optimization)
-- 🔐 Deep Web Security
-- 🐧 Linux mastery
-- ☁️ Deployment (PythonAnywhere, VPS)
+- Advanced Django
+- Django REST Framework
+- Backend Security Best Practices
+- Linux Administration
+- Deployment with PythonAnywhere & VPS
+- Web Application Security Testing
 
 ---
 
-## 📫 Contact
+## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/mr_rayimqulov" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadraxim-rayimqulov-a0663a400/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## ⚡ Motto
+
 <p align="center">
-  ⚡ “Build Backend. Secure Everything.”
+  <b>Build Backend. Secure Everything.</b>
 </p>
