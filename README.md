@@ -1,56 +1,76 @@
 <h1 align="center">👨‍💻 Muhammadraxim</h1>
 
 <p align="center">
-  🚀 Backend Developer | Django | Cybersecurity Enthusiast
+  🚀 Python Backend Developer | Django Specialist | 🔐 Cybersecurity Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3b82f6&center=true&vCenter=true&size=24&lines=Python+Developer;Django+Backend+Engineer;Cybersecurity+Learner;Building+Secure+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3b82f6&center=true&vCenter=true&size=24&lines=Python+%7C+Django+Backend+Developer;Building+Secure+Web+Applications;Cybersecurity+%26+Ethical+Hacking;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🧠 Python & Django bilan backend development qilaman  
-- 🔐 Cybersecurity (Web Security, Kali Linux) o‘rganayapman  
-- 🛠️ Hozirgi loyiha: **File Security Scanner**  
-- 🎯 Maqsad: Kuchli Backend + Security Engineer bo‘lish  
+
+- 🧠 **Python & Django Backend Developer (asosiy yo‘nalish)**
+- 🔐 Cybersecurity (Web Security, Kali Linux)
+- 🛠️ Real loyiha: **File Security Scanner**
+- ⚡ Maqsad: Secure va scalable backendlar yaratish
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Core Stack (Main Focus)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,linux,kali,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,linux,git&theme=dark"/>
 </p>
 
 ---
 
-## 🧠 Currently Learning
-- 🔐 Web Application Security (OWASP Top 10)
-- 🐧 Linux & Kali Tools
-- 🕵️‍♂️ Ethical Hacking basics
-- ⚙️ Advanced Django Backend
+## 🔐 Cybersecurity Skills (Secondary Focus)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark"/>
+</p>
+
+- OWASP Top 10
+- XSS / SQL Injection / CSRF
+- Web vulnerability analysis
+- Ethical hacking basics
+
+---
+
+## 🔥 Featured Project
+
+### 🔐 File Security Scanner
+> Python + Django asosida yaratilgan web ilova
+
+- 📂 Fayllarni tekshiradi (.exe, .apk, .zip va boshqalar)
+- ⚠️ Xavf darajasini aniqlaydi (Danger / Suspicious / Safe)
+- 🧠 Heuristic tahlil
+- 🚀 Minimal va tez backend
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadraximdev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadraximdev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammmadraxim&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammmadraxim&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Projects
-- 🔐 **File Security Scanner**  
-  → Fayllarni tekshiradi (.exe, .apk, .zip va boshqalar)  
-  → Xavf darajasini aniqlaydi (Danger / Suspicious / Safe)  
+## 🧠 Currently Improving
+
+- ⚙️ Advanced Django (API, Security, Optimization)
+- 🔐 Deep Web Security
+- 🐧 Linux mastery
+- ☁️ Deployment (PythonAnywhere, VPS)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 <p align="center">
   <a href="https://t.me/your_username">
@@ -61,5 +81,5 @@
 ---
 
 <p align="center">
-  ⚡ “Code. Secure. Repeat.”
+  ⚡ “Build Backend. Secure Everything.”
 </p>
